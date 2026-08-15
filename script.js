@@ -7,3 +7,5 @@ console.log("this is a test msg");
 console.log("this is another console msg");
 let message = "Hello, World!";
 console.log(message);
+let name = prompt("What is your name?");
+console.log("Hello, " + name + "!");
