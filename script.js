@@ -12,3 +12,5 @@ console.log("Hello, " + name + "!");
 document.write("Hello, " + name + "!");
 
 console.log("hello world");
+let greeting = "Hello, World!";
+console.log(greeting);
