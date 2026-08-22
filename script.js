@@ -15,3 +15,4 @@ console.log("hello world");
 let greeting = "Hello, World!";
 console.log(greeting);
 console.log("This is a test message.");
+console.log("this is another console message.");
