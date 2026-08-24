@@ -18,3 +18,4 @@ console.log("This is a test message.");
 console.log("this is another console message.");
 let a =[1,2,3,4,5];
 console.log(a);
+a.push(10);
