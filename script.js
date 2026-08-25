@@ -21,3 +21,4 @@ console.log(a);
 a.push(10);
 a.pop();
 console.log(a);
+alert("page loading timepass");
