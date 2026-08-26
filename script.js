@@ -26,3 +26,7 @@ const fun=()=>{
     alert("this is a function");
 }
 fun();
+const add=(x,y)=>{
+    return x+y;
+}
+console.log(add(5, 3));
