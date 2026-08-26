@@ -22,3 +22,7 @@ a.push(10);
 a.pop();
 console.log(a);
 alert("page loading timepass");
+const fun=()=>{
+    alert("this is a function");
+}
+fun();
